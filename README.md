@@ -12,7 +12,8 @@ Se quiser conversar sobre código, projetos ou tecnologia, fique à vontade para
 
 | GitHub Stats | Most Used Languages |
 |---|---|
-| [![Stats](https://github-readme-stats.vercel.app/api?username=juliokrepski&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliokrepski&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Stats](https://github-readme-stats.vercel.app/api?username=juliokrepski&show_icons=true&include_all_commits=true&show=prs_merged&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliokrepski&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
+
 
 
 ## 💻 Languages, technologies and tools
