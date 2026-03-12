@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm SEU NOME.
+# 👋 Hi there, I'm Julio!.
 
 ![status](https://img.shields.io/badge/status-up-brightgreen)
 
@@ -12,4 +12,4 @@ I'm a self-taught full stack developer, focusing mainly on the Vue.js and Node.j
 [![My Skills](https://skillicons.dev/icons?i=docker,js,ts,vue,vite,nodejs,php,laravel,mysql,mongodb,firebase&perline=10)](https://skillicons.dev)
 
 ## 📌 Portfolio
-- Acessar:[ [https://seu-portfolio.co](https://juliokrepski.github.io/)m](https://juliokrepski.github.io/)
+- Acessar:[ [https://seu-portfolio.co](https://juliokrepski.github.io/)](https://juliokrepski.github.io/)
