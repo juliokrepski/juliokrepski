@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Julio!.
+# 👋 Olá Pessoal, Meu nome é Julio!.
 
 ![status](https://img.shields.io/badge/status-up-brightgreen)
 
@@ -16,7 +16,7 @@ Se quiser conversar sobre código, projetos ou tecnologia, fique à vontade para
 
 
 ## 💻 Languages, technologies and tools
-[![My Skills](https://skillicons.dev/icons?i=docker,js,ts,vue,vite,nodejs,php,laravel,mysql,mongodb,firebase&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,vue,js,vite,nodejs,php,mysql&perline=10)](https://skillicons.dev)
 
 ## 📌 Portfolio
 - [Acessar meu Portfolio](https://juliokrepski.github.io/)
