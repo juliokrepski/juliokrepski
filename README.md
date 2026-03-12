@@ -2,7 +2,13 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen)
 
-I'm a self-taught full stack developer, focusing mainly on the Vue.js and Node.js ecosystem.
+Sou desenvolvedor e apaixonado pelo ecossistema Laravel, Inertia.js e Vue.js. Gosto de transformar ideias em código e construir aplicações que realmente sejam úteis para as pessoas.
+
+Estou sempre explorando novas tecnologias, aprendendo coisas novas e tentando escrever código cada vez mais limpo, simples e eficiente. Curto bastante trabalhar tanto no back-end, organizando a lógica da aplicação, quanto no front-end, criando interfaces agradáveis de usar.
+
+Por aqui você vai encontrar alguns projetos, experimentos e ideias que fui colocando em prática ao longo do tempo.
+
+Se quiser conversar sobre código, projetos ou tecnologia, fique à vontade para chamar. Sempre rola uma boa conversa quando o assunto é programação. 🚀
 
 | GitHub Stats | Most Used Languages |
 |---|---|
