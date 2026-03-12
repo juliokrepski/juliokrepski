@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi there, I'm SEU NOME.
 
-<!--
-**juliokrepski/juliokrepski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![status](https://img.shields.io/badge/status-up-brightgreen)
 
-Here are some ideas to get you started:
+I'm a self-taught full stack developer, focusing mainly on the Vue.js and Node.js ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| GitHub Stats | Most Used Languages | |
+|---|---|---|
+| [![Stats](https://github-readme-stats.vercel.app/api?username=juliokrepski&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliokrepski&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
+## 💻 Languages, technologies and tools
+[![My Skills](https://skillicons.dev/icons?i=docker,js,ts,vue,vite,nodejs,php,laravel,mysql,mongodb,firebase&perline=10)](https://skillicons.dev)
+
+## 📌 Portfolio
+- Acessar:[ [https://seu-portfolio.co](https://juliokrepski.github.io/)m](https://juliokrepski.github.io/)
